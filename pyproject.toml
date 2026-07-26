@@ -1,0 +1,12 @@
+[project]
+name = "sint-epistemic-mcp"
+version = "0.1.0"
+description = "Epistemic Status Tracking MCP server — tracks what the agent KNOWS vs INFERS vs ASSUMES"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=3.0",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
