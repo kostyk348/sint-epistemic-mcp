@@ -1,10 +1,19 @@
+<div align="center">
+
+<img src="docs/banner.svg" alt="sint-epistemic-mcp banner" width="1000">
+
 # sint-epistemic-mcp
+
+### Epistemic Status Tracking MCP server — tracks what an agent KNOWS vs INFERS vs ASSUMES with calibrated confidence.
 
 [![Release](https://img.shields.io/github/v/release/kostyk348/sint-epistemic-mcp?sort=semver&color=blue)](https://github.com/kostyk348/sint-epistemic-mcp/releases)
 [![License](https://img.shields.io/badge/license-Apache-2.0-green)](https://github.com/kostyk348/sint-epistemic-mcp/blob/main/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/kostyk348/sint-epistemic-mcp?branch=main)](https://github.com/kostyk348/sint-epistemic-mcp/commits/main)
 
-Epistemic Status Tracking MCP server — tracks what an agent KNOWS vs INFERS vs ASSUMES with calibrated confidence.
+</div>
+
+---
+
 
 ## Tools
 
